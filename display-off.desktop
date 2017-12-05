@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Display Off
+GenericName=Display Off
+Comment=Turns off iMac display
+Exec=xset dpms force off
+Terminal=false
+Type=Application
+Icon=display-off.png
+Categories=Utility;
